@@ -36,7 +36,7 @@ main {
   display: flex;
 }
 .logo {
-  background-image: url("./img/marvel-logo.png");
+  background-image: url("../img/marvel-logo.png");
   background-size: 80%;
   background-repeat: no-repeat;
   width: 20vw;
